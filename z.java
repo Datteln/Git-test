@@ -7,5 +7,7 @@ public class z {
         System.out.println("hello,git");
         System.out.println("hello,git,master test commit");
         System.out.println("hello,git,master test commit");
+        System.out.println("hello,git,ideal test commit");
+        System.out.println("hello,git,ideal test commit");
     }
 }
